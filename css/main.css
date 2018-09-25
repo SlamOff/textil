@@ -1028,6 +1028,7 @@ h2 {
 	font-weight: 900;
 	height: 100%;
 	color: #c0c0c0;
+	cursor: pointer;
 }
 .product .dot.active {
 	color: #f69753;
