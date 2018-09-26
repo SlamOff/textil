@@ -1,6 +1,0 @@
-img/prod_8_3.jpg
-img/prod_2_2.jpg
-img/prod_9_1.jpg
-img/prod_10_3.jpg
-img/about_1.png
-img/photo_8.jpg
