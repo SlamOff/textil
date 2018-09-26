@@ -12,6 +12,9 @@
 	.main_btn {
 		font-size: 12px;
 	}
+	h1 {
+		font-size: 2.4rem;
+	}
 	h1:after {
 		width: 150px;
 		height: 92px;
@@ -273,7 +276,7 @@
 		display: none;
 	}
 	.trigger li {
-		text-indent: 0;
+		padding: 0;
 	}
 	.photo_item img {
 		max-width: 370px;
@@ -314,12 +317,18 @@
 	.product {
 		padding-bottom: 80px;
 	}
+	h2 {
+		font-size: 3rem;
+	}
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
 	.made_by p, .copyright p {
 		font-size: 14px;
+	}
+	h1 {
+		font-size: 3rem;
 	}
 	.share .timer__item {
 		margin-right: 1rem;
