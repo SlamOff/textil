@@ -68,6 +68,9 @@
 	.review:before, .review:after {
 		display: none;
 	}
+	.about {
+		overflow: hidden;
+	}
 }
 
 /* Medium Devices, Desktops */
