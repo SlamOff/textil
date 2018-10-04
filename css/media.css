@@ -71,6 +71,11 @@
 	.about {
 		overflow: hidden;
 	}
+	.main {
+		background-position: 37% top;
+		-ms-background-size: 140%;
+		background-size: 140%;
+	}
 }
 
 /* Medium Devices, Desktops */
@@ -140,6 +145,8 @@
 	}
 	.main {
 		background-position: 0% top;
+		-ms-background-size: auto;
+		background-size: auto;
 	}
 	.about .row .pict:before,
 	.about .row .pict:after,
