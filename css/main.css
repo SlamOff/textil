@@ -518,7 +518,7 @@ main {
 .main {
 	background-image: url(../img/main_bg.jpg);
 	background-repeat: no-repeat;
-	background-position: center top;
+	background-position: 45% top;
 }
 .logo img {
 	max-width: 100%;
@@ -560,14 +560,14 @@ h2 {
 	margin-bottom: 3rem;
 	padding-left: 3rem;
 	position: relative;
-	font-size: 16px;
+	font-size: 18px;
 }
 .trigger li:before {
 	width: 16px;
 	height: 17px;
 	content: "";
 	position: absolute;
-	top: 4px;
+	top: 5px;
 	left: 0;
 	background-image: url(../img/trigger_icon.png);
 }
@@ -638,6 +638,9 @@ h2 {
 	-webkit-justify-content: space-between;
 	-ms-flex-pack: space-between;
 	justify-content: space-between;
+}
+.about {
+	overflow: hidden;
 }
 .about .row {
 	background-position: center center;
