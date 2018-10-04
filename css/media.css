@@ -13,7 +13,7 @@
 		font-size: 12px;
 	}
 	h1 {
-		font-size: 2.4rem;
+		font-size: 2.7rem;
 	}
 	h1:after {
 		width: 150px;
@@ -85,6 +85,9 @@
 	}
 	h1 {
 		font-size: 4rem;
+	}
+	h1 br {
+		display: none;
 	}
 	.made_by p,
 	.copyright p {
