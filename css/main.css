@@ -508,7 +508,8 @@ label.error {
 	visibility: hidden;
 }
 header {
-	padding-top: 25px;
+	/*padding-top: 25px;*/
+	padding-top: 8px;
 }
 main {
 	display: block;
@@ -516,7 +517,8 @@ main {
 	padding-bottom: 10rem;
 }
 .main {
-	background-image: url(../img/main_bg.jpg);
+	/*background-image: url(../img/main_bg.jpg);*/
+	background-image: url(../img/bg.jpg);
 	background-repeat: no-repeat;
 	background-position: 45% top;
 }
@@ -525,7 +527,7 @@ main {
 }
 h1 {
 	color: #4c4c4c;
-	font-size: 3rem;
+	font-size: 5rem;
 	font-weight: 900;
 	margin: 0;
 	position: relative;
@@ -546,7 +548,7 @@ h1:after {
 }
 h2 {
 	color: #4c4c4c;
-	font-size: 2rem;
+	font-size: 3rem;
 	font-weight: 500;
 	margin: 3rem 0 5rem;
 }
